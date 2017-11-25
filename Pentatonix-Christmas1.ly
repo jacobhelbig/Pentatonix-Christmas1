@@ -1,9 +1,9 @@
-version "2.19.59"
+\version  "2.19.59"
 
 \header {
-  title = "That's Christmas To Me"
-  composer = "Pentatonix"
-  arranger = "Cantus Novus"
+  title = "Later"
+  composer = "Later"
+  arranger = "Later"
   tagline = ##f
 }
 
@@ -31,10 +31,16 @@ KevinWords = \lyricmode {
 }
 ScottMusic = \relative c {
 	\clef "bass"
-r2 r4 r8 r16 fis16 | dis'8 dis16 (dis16 dis16) (cis16 cis16) (ais16 ais16) (cis16 cis16) (ais16 ais4) |
+r2 r4 r8 r16 fis16 |
+dis'8 dis16 dis16( dis16) cis8 ais16( ais16) cis8 
+ais16( ais4) | gis8 fis16 gis16( gis16) ais8. fis4 r8 r16 fis16 |
+dis'8 dis16 dis16( dis16) cis8 ais16( ais) cis8 ais16( ais8.) fis16 |
+gis8 fis16 gis16( gis16) ais8. fis4 r8 fis16 fis16 |
+cis'8 dis16 dis16( dis) cis8 ais16( ais) cis8 ais16( ais8.) fis16 |
 }
 ScottWords = \lyricmode {
-
+The fi -- re -- place is burn -- ing bright shin -- ing all on me. I see the
+pre -- sents un -- der -- neath the good ol' Christ -- mas tree
 }
 AviMusic = \relative c {
 	\clef "bass"
@@ -46,54 +52,23 @@ AviWords = \lyricmode {
 
 
 \new ChoirStaff <<
-	\new Staff = "Kirstie" <<
-		\set Staff.instrumentName = #"Kirstie"
-		\new Voice = "Kirstie" {
-			\global
-			\KirstieMusic
-		}
-	>>
-	\new Lyrics \lyricsto "Kirstie" {
-		\KirstieWords
-	}
-	\new Staff = "Mitch" <<
-		\set Staff.instrumentName = #"Mitch"
-		\new Voice = "Mitch" {
-			\global
-			\MitchMusic
-		}
-	>>
-	\new Lyrics \lyricsto "Mitch" {
-		\MitchWords
-	}
-	\new Staff = "Kevin" <<
-		\set Staff.instrumentName = #"Kevin"
-		\new Voice = "Kevin" {
-			\global
-			\KevinMusic
-		}
-	>>
-	\new Lyrics \lyricsto "Kevin" {
-		\KevinWords
-	}
-	\new Staff = "Scott" <<
-		\set Staff.instrumentName = #"Scott"
-		\new Voice = "Scott" {
-			\global
-			\ScottMusic
-		}
-	>>
-	\new Lyrics \lyricsto "Scott" {
-		\ScottWords
-	}
-	\new Staff = "Avi" <<
-		\set Staff.instrumentName = #"Avi"
-		\new Voice = "Avi" {
-			\global
-			\AviMusic
-		}
-	>>
-	\new Lyrics \lyricsto "Avi" {
-		\AviWords
-	}
+	\new Staff \with { instrumentName = #"Kirstie" } 
+	{ \global \KirstieMusic } 
+	\addlyrics \KirstieWords
+
+	\new Staff \with { instrumentName = #"Mitch" } {
+	 \global \MitchMusic } 
+	 \addlyrics \MitchWords
+
+	\new Staff \with { instrumentName = #"Kevin" } {
+	 \global \KevinMusic } 
+	 \addlyrics \KevinWords
+
+	\new Staff \with { instrumentName = #"Scott" } {
+	 \global \ScottMusic } 
+	 \addlyrics \ScottWords
+
+	\new Staff \with { instrumentName = #"Avi" } {
+	 \global \AviMusic } 
+	 \addlyrics \AviWords
 >>
