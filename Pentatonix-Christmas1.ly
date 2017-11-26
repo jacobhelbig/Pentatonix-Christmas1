@@ -30,7 +30,7 @@ eis4( gis fis) eis | dis r eis8. eis16( eis) eis8. | fis1 |
 fis4 r eis8. eis16( eis) eis8. | fis,2. r4 |
 }
 KirstieWords = \lyricmode {
-fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents 
+fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents 
 un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta  
 comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the      
 chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy      
@@ -64,7 +64,7 @@ ais4( dis fis) ais8( gis16 fis) |
 fis16( dis8.) r16 dis16 ais8 gis8. fis16( fis) eis8. | fis2. r4 |
 }
 MitchWords = \lyricmode {
-fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents 
+fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents 
 un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta  
 comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the      
 chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy      
@@ -98,7 +98,7 @@ eis2( ais4) gis | fis r gis8. gis16( gis) gis8. |
 dis4( fis ais2) | fis4 r gis8. gis16( gis) gis8. | fis2. r4 |
 }
 KevinWords = \lyricmode {
-fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents 
+fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents 
 un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta  
 comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the      
 chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy      
@@ -132,7 +132,7 @@ cis r cis8. cis16( cis) cis8. | fis,4( ais dis2) |
 b4 r cis8. cis16( cis) cis8. | fis,2. r4 |
 }
 ScottWords = \lyricmode {
-The fi -- re -- place is burn -- ing bright shin -- ing all on me. I see the
+The fi -- re -- place is burn -- ing bright, shin -- ing all on me. I see the
 pre -- sents un -- der -- neath the good ol' Christ -- mas tree and I wait all
 night 'til San -- ta comes to wake me from my dreams Oh __ why? __ cause that's
 Christ -- mas to me __ I see the chil -- dren play out -- side __ like an --
@@ -164,7 +164,7 @@ b r cis8. cis16( cis) c8. | dis4( cis c2) | b4 r cis8. cis16( cis) cis8. |
 fis2. r8 r16 fis,16 |
 }
 AviWords = \lyricmode {
-fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents
+fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents
 un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta
 comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
 chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy
