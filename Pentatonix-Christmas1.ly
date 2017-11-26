@@ -1,27 +1,79 @@
 \version  "2.19.59"
 
 \header {
-  title = "Later"
-  composer = "Later"
-  arranger = "Later"
+  title = "That's Christmas To Me"
+  composer = "Pentatonix"
+  arranger = "Cantus Novus"
   tagline = ##f
 }
 
 global = { \key fis \major \time 4/4 }
 
 KirstieMusic = \relative c' {
-	\clef "treble"
-r1 |
+\tempo "Einen Viertelton zu tief gesungen." \clef "treble"
+r1 | fis8 fis16 fis( fis) fis8 cis16( cis) cis8 cis16( cis4) |
+cis8 cis16 cis16( cis) cis8. ais4 r |
+fis'8 fis16 fis( fis) fis8 cis16( cis) cis8 cis16( cis8.) cis16 |
+cis16 cis8 cis16( cis) cis8. cis4 r |
+fis16 fis8 fis16( fis) fis8 cis16( cis) cis8 cis16( cis8.) cis16 |
+cis8 cis16 cis( cis) eis8. dis4 cis | b r cis8. cis16( cis) cis8. fis,2. r4 |
+fis'8 fis16 fis( fis) fis8 cis16( cis) cis8 cis16( cis8.) cis16 |
+eis8 dis16 eis( eis) fis8. dis4 r |
+fis8 fis16 fis( fis) fis8 cis16( cis) cis8 cis16( cis8.) cis16 |
+cis8 cis16 cis( cis) cis8. cis4 r |
+fis16 fis8 fis16( fis) fis8 cis16( cis) cis8 cis16( cis8.) cis16 |
+cis8 cis16 cis( cis) eis8. dis4 cis |
+dis r8 dis cis8. cis16( cis) cis8. | fis,2. r4 | dis'4 dis dis2 |
+ais8. b16( b) b8. ais4 cis( | cis1) | ais4( dis) fis( eis) |
+fis8 fis16 fis( fis) fis8. fis8 fis16 fis( fis) fis8. |
+eis4( gis fis) eis | dis r eis8. eis16( eis) eis8. | fis1 |
+fis4 r eis8. eis16( eis) eis8. | fis,2. r4 |
 }
 KirstieWords = \lyricmode {
-
+fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents 
+un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta  
+comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the      
+chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy      
+share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple    
+things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
+Christ -- mas song __ song in my heart Ah __ Oh __ Ah __ all the stock -- ings
+by the Christ -- mas tree __ Oh, why? Christ -- mas to me __ why? Christ -- mas
+to me __
 }
 MitchMusic = \relative c' {
 	\clef "treble_8"
-r1 |
+r1 | b8 b16 b( b) b8 ais16( ais) ais8 ais16( ais4) |
+gis8 gis16 gis( gis) gis8. fis4 r |
+b8 b16 b( b) ais8 ais16( ais) ais8 ais16( ais8.) ais16 |
+gis16 gis8 gis16( gis) gis8. gis4 r |
+b16 b8 b16( b) ais8 ais16( ais) ais8 ais16( ais8. ) ais16 |
+gis8 gis16 gis16( gis) gis8. ais4 gis | fis r gis8. gis16( gis) gis8. |
+fis2. r4 | b8 b16 b( b) ais8 ais16( ais) ais8 ais16( ais8.) ais16 |
+cis8 cis16 cis16( cis) cis8. ais4 r |
+b8 b16 b( b) ais8 ais16( ais) ais8 ais16( ais8.) ais16 |
+gis8 gis16 gis( gis) gis8. gis4 r |
+b16 b8 b16( b) ais8 ais16( ais) ais8 ais16( ais8.) ais16 |
+gis8 gis16 gis( gis) gis8. ais4 gis |
+fis r8 ais8 gis8. gis16( gis) gis8. | fis2 r8 fis ais cis |
+dis4 dis dis8( eis16) fis( fis) fis,8. | ais2 r8 ais cis fis, |
+gis4 gis gis8 gis16 ais( ais) cis8 fis,16( | fis8)( dis4.) r8 fis ais cis |
+dis dis16 dis( dis) dis8. dis8 dis16 eis( eis) dis( cis8) |
+cis4( eis8 dis dis4) ais8( gis16 fis) |
+fis16( dis8.) r16 dis ais'8 gis8. fis16( fis) eis8. |
+ais4( dis fis) ais8( gis16 fis) |
+fis16( dis8.) r16 dis16 ais8 gis8. fis16( fis) eis8. | fis2. r4 |
 }
 MitchWords = \lyricmode {
-
+fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents 
+un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta  
+comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the      
+chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy      
+share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple    
+things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.     
+I've got this Christ -- mas song __ in my heart __ I've got the can -- dles glow
+-- ing in the dark__ I'm hang -- ing all the stock -- ings by the Christ -- mas
+tree __ Oh, __ why? __ cause that's Christ -- mas to me __ Oh, __ why? cause
+that's Christ -- mas to me.
 }
 KevinMusic = \relative c {
 	\clef "bass"
@@ -39,6 +91,11 @@ eis8 dis16 eis( eis) fis8. dis4 r4 |
 fis16 fis8 fis16( fis) fis8 fis16( fis) ais8 fis16( fis8.) dis16 |
 eis8 dis16 dis( dis) gis8. fis4 eis |
 fis r8 fis8 fis8. fis16( fis) eis8. | fis2 r8 fis fis fis |
+fis4 fis fis2 | cis8. dis16( dis) dis8. cis4 fis4( | eis1) |
+dis4( fis) ais( gis) |
+fis8 fis16 fis( fis) fis8. fis8 fis16 fis( fis) fis8. |
+eis2( ais4) gis | fis r gis8. gis16( gis) gis8. |
+dis4( fis ais2) | fis4 r gis8. gis16( gis) gis8. | fis2. r4 |
 }
 KevinWords = \lyricmode {
 fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents 
@@ -47,7 +104,9 @@ comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
 chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy      
 share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple    
 things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
-I've got this 
+I've got this Christ -- mas song __ song in my heart Ah __ Oh __ Ah __ all
+the stock -- ings by the Christ -- mas tree __ Oh, why? Christ -- mas to me __
+why? Christ -- mas to me __
 }
 ScottMusic = \relative c {
 	\clef "bass"
@@ -66,7 +125,11 @@ dis'8 dis16 dis( dis) cis8 ais16( ais) cis8 ais16( ais8.) ais16 |
 gis8 fis16 gis( gis) ais8. gis4 r8 fis16 fis |
 cis' dis8 dis16( dis) cis8 ais16( ais) cis8 ais16( ais8.) fis16 |
 gis8 fis16 gis( gis) cis8. ais4 ais8( gis16 fis) |
-fis4 r16 dis ais'8 gis8. fis16( fis) eis8. | fis2 r2 |
+fis4 r16 dis ais'8 gis8. fis16( fis) eis8. | fis2 r2 | b4 b b2 |
+fis8. fis16( fis) fis8. fis4 ais( | gis1) | fis4( ais) dis( cis) |
+b8 b16 b( b) b8. b8 b16 b( b) b8. | ais4( cis dis) cis |
+cis r cis8. cis16( cis) cis8. | fis,4( ais dis2) |
+b4 r cis8. cis16( cis) cis8. | fis,2. r4 |
 }
 ScottWords = \lyricmode {
 The fi -- re -- place is burn -- ing bright shin -- ing all on me. I see the
@@ -75,7 +138,9 @@ night 'til San -- ta comes to wake me from my dreams Oh __ why? __ cause that's
 Christ -- mas to me __ I see the chil -- dren play out -- side __ like an --
 gels in the snow while mom and dad -- dy share a kiss __ un -- der the mis --
 tle -- toe __ and we'll cher -- ish all these sim -- ple things wher -- ev -- er
-we may be Oh, __ why? __ cause that's Christ -- mas to me. __
+we may be Oh, __ why? __ cause that's Christ -- mas to me. __ Christ -- mas
+song __ song in my heart Ah __ Oh __ Ah __ all the stock -- ings by the Christ
+-- mas tree __ Oh, why? Christ -- mas to me __ why? Christ -- mas to me __
 }
 AviMusic = \relative c {
 	\clef "bass"
@@ -92,7 +157,11 @@ b8 b16 b( b) b8 fis'16( fis) fis8 fis16( fis8.) fis16 |
 cis8 cis16 cis( cis) gis8. cis,4 r |
 b'16 b8 b16( b) b8 fis'16( fis) fis8 fis16( fis8.) fis16 |
 cis8 cis16 cis( cis) cis8. dis4 cis |
-b r8 b cis8. cis16( cis) cis8. | fis2 r2 |
+b r8 b cis8. cis16( cis) cis8. | fis2 r2 | b,4 b b2 |
+fis8. fis16( fis) fis8. fis4( ais) | cis cis cis2 | dis fis,4( ais) |
+b8 b16 b16( b) b8. b8 b16 b( b) b8. | ais2( dis4) cis |
+b r cis8. cis16( cis) c8. | dis4( cis c2) | b4 r cis8. cis16( cis) cis8. |
+fis2. r8 r16 fis,16 |
 }
 AviWords = \lyricmode {
 fi -- re place is burn -- ing bright shin -- ing all on me. see the pres -- ents
@@ -100,7 +169,10 @@ un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta
 comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
 chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy
 share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple
-things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.	
+things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
+Christ -- mas song __ song in my heart __ can -- dles glow __ Oh __ Ah __ all
+the stock -- ings by the Christ -- mas tree __ Oh, why? Christ -- mas to me __
+why? Christ -- mas to me. __ I	
 }
 
 
