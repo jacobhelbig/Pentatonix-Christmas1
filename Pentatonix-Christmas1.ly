@@ -35,12 +35,12 @@ cis4( eis) fis( gis) | fis fis fis2 | fis8. fis16( fis) fis8. fis2 | eis1 |
 dis4( eis fis eis) |
 fis8 fis16 fis( fis) fis8. fis8 fis16 fis( fis) fis8. | eis4( gis fis) eis |
 dis r eis8. eis16( eis) eis8. | fis1 | dis4 r eis8. eis16( eis) eis8. | fis2 r |
-r4 r16 cis8. dis2 | r4 r16 gis,8. ais2 | r4 r16 dis'8. eis2 |
+r4 r16 cis8. dis2 | r4 r16 gis,8. ais2 | r4 r16 dis8. eis2 |
 r4 r16 eis8. fis4 eis | dis dis fis b | ais( gis fis) eis |
 dis r16 fis,16 ais8 gis8. fis16( fis) eis8. |
 fis4( gis ais8 cis) dis( eis) | fis4 fis4 fis8. dis16( dis) fis8. |
-cis4 r r8 ais8 cis fis, | fis'4 eis dis8 cis16 cis( cis) cis8 fis,16( |
-fis2) r4 eis | fis8 fis16 fis( fis) fis8 fis16( fis) fis8 fis16( fis) fis8. |
+cis4 r r8 ais8 cis fis, | fis'4 eis dis8 cis16 cis( cis) cis8 ais16( |
+ais2) r4 eis' | fis8 fis16 fis( fis) fis8 fis16( fis) fis8 fis16( fis) fis8. |
 eis4( gis fis) dis8 dis8 | cis4 dis eis8. eis16( eis) eis8. | dis4( fis ais2) |
 fis4 r16 fis,16 ais8 gis8. fis16( fis) eis8. | fis2. r4 \bar "|."
 
