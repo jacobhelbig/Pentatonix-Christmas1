@@ -35,6 +35,14 @@ cis4( eis) fis( gis) | fis fis fis2 | fis8. fis16( fis) fis8. fis2 | eis1 |
 dis4( eis fis eis) |
 fis8 fis16 fis( fis) fis8. fis8 fis16 fis( fis) fis8. | eis4( gis fis) eis |
 dis r eis8. eis16( eis) eis8. | fis1 | dis4 r eis8. eis16( eis) eis8. | fis2 r |
+r4 r16 cis8. dis2 | r4 r16 gis,8. ais2 | r4 r16 dis'8. eis2 |
+r4 r16 eis8. fis4 eis | dis dis fis b | ais( gis fis) eis |
+dis r16 fis,16 ais8 gis8. fis16( fis) eis8. |
+fis4( gis ais8 cis) dis( eis) | fis4 fis4 fis8. dis16( dis) fis8. |
+cis4 r r8 ais8 cis fis, | fis'4 eis dis8 cis16 cis( cis) cis8 fis,16( |
+fis2) r4 eis | fis8 fis16 fis( fis) fis8 fis16( fis) fis8 fis16( fis) fis8. |
+eis4( gis fis) dis8 dis8 | cis4 dis eis8. eis16( eis) eis8. | dis4( fis ais2) |
+fis4 r16 fis,16 ais8 gis8. fis16( fis) eis8. | fis2. r4 \bar "|."
 
 }
 KirstieWords = \lyricmode {
@@ -49,7 +57,11 @@ by the Christ -- mas tree __ Oh, why? Christ -- mas to me __ why? Christ -- mas
 to me __ Ooo __ Ooo __ Oh, the on -- ly gift I'll ev -- er need is the joy of
 fa -- mi -- ly Oh, why? Ooo __ oh __ ah __ Christ -- mas song song in my heart
 Ah __ Oh __ all the stock -- ings by the Christ -- mas tree __ Oh, why? 
-Christ -- mas to me. __ why? Christ -- mas to me. __ why? Christ -- mas to me. 
+Christ -- mas to me. __ why? Christ -- mas to me. __ dm dm __ dm dm __ dm dm __
+dm All the joy that makes us sing __ Oh, why? cause that's Christ -- mas to
+me __ oh __ Christ -- mas song in my heart I've got the can -- dles glow -- ing
+in the dark __ oh years to come we'll al -- ways know one thing __ that's the
+love that Christ -- mas can bring __ why? Cause that's Christ -- mas to me. 
 }
 MitchMusic = \relative c' {
 	\clef "treble_8"
@@ -83,7 +95,20 @@ dis8 dis16 dis( dis) dis8. dis8 dis16 eis( eis) dis( cis8) |
 cis4( eis8 dis8 dis4) ais8( gis16 fis) |
 fis16( dis8.) r16 dis16 ais'8 gis8. fis16( fis) eis8. |
 ais4( dis fis) ais,8( gis16 fis) |
-fis( dis) r8 r16 dis ais'8 gis8. fis16( fis) eis8. | fis2 r8 fis ais cis |
+fis( dis) r8 r16 dis ais'8 gis8. fis16( fis) eis8. | fis2 r8 fis( ais cis |
+dis4. cis8 dis4 fis | ais,2) r8 ais8( cis fis, | gis4. fis8 gis4 cis |
+ais2) r8 fis8 ais cis |
+dis dis16 dis( dis) dis8 dis16( dis) dis8 eis16( eis) dis16( cis8) |
+cis4( eis dis8 dis4) ais8( gis) |
+fis16( dis8.) r16 dis16 ais'8 gis8. fis16( fis) eis8. |
+fis4. r8 fis ais cis |
+dis4 dis dis8( eis16) fis( fis) fis,8. | ais4 r r8 ais cis fis, |
+gis4 gis gis8 gis16 ais( ais) cis8 fis,16( | fis8 dis4.) r8 fis ais cis |
+dis8 dis16 dis( dis) dis8 dis16( dis) dis8 eis16( eis) dis16( cis8) |
+cis4( eis8 dis dis4) ais8 gis |
+fis8( dis) fis( ais) gis8. fis16( fis) eis8. |
+ais4( dis fis) ais,8( gis) |
+fis16( dis8.) r16 dis16 ais'8 gis8. fis16( fis) eis8. | fis2. r4
 }
 MitchWords = \lyricmode {
 fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents 
@@ -100,7 +125,13 @@ need is the joy of fa -- mi -- ly Oh, why? cause that's Christ -- mas to me.
 I've got this Christ -- mas song __ in my heart __ I've got the can -- dles
 glow -- ing in the dark __ I'm hang -- ing all the stock -- ings by the
 Christ -- mas tree __ Oh, why? cause that's Christ -- mas to me. __ Oh, why?
-Cause that's Christ -- mas to me. Ooo __
+Cause that's Christ -- mas to me. Ooo __ Ooo __ Oh, all the joy that fills our
+hearts and makes us sing __ Oh, why? cause that's Christ -- mas to me.
+I've got this Christ -- mas song in my heart I've got the can -- dles 
+glow -- ing in the dark __ and then for years to come we'll al -- ways
+know one thing __ that's the love __ that __ Christ -- mas can bring __
+Oh, why? 
+Cause that's Christ -- mas to me.
 }
 KevinMusic = \relative c {
 	\clef "bass"
@@ -174,7 +205,15 @@ gis8 fis16 gis( gis) cis8. ais4 ais8( gis) | fis16( dis) r8 r4 gis2 |
 ais4( cis) cis2 | b4 b b2 | ais8. b16( b) b8. ais4 cis( | cis1) |
 ais4( cis dis cis) | b8 b16 b( b) b8. b8 b16 b( b) b8. |
 ais4( cis dis) cis | cis r cis8. cis16( cis) cis8. | fis,4 ais dis2 |
-cis4 r cis8. cis16( cis) cis8. fis,2 r |
+cis4 r cis8. cis16( cis) cis8. fis,2 r | r8 r16 b( b2) b4 |
+r8 r16 fis( fis2) fis4 | r8 r16 cis'( cis2) cis4 | r8 r16 dis( dis4) dis dis |
+b cis dis fis | eis2( dis4) cis | cis r16 fis,16 ais8 gis8. fis16( fis) eis8. |
+fis4( gis ais) cis | b ais gis8( fis16) fis( fis) gis8. |
+gis4 r4 r8 ais cis fis, |
+cis'4 cis cis8 cis16 cis( cis) cis8 ais16( | ais4) r4 r8 fis8 ais cis |
+b8 b16 b( b) b8 b16( b) b8 cis16( cis) b8. | ais4( cis ais) ais8 gis |
+fis4 ais cis8. cis16( cis) cis8. | fis,4( ais dis2) |
+cis4 r16 dis,16 ais'8 gis8. fis16( fis) eis8. | fis2. r4 |
 }
 ScottWords = \lyricmode {
 The fi -- re -- place is burn -- ing bright, shin -- ing all on me. I see the
