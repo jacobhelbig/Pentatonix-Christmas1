@@ -12,7 +12,7 @@ global = { \key fis \major \time 4/4 }
 
 KirstieMusic = \relative c' {
   \tempo "Einen Viertelton zu tief gesungen." \clef "treble"
-  r1 | fis8 fis16 fis~ fis fis8 cis16~ cis cis8 cis16~ cis4~ |
+  r1 | fis8 fis16 fis~ fis fis8 cis16~ cis cis8 cis16~ cis4 |
   cis8 cis16 cis16~ cis cis8. ais4 r |
   fis'8 fis16 fis~ fis fis8 cis16~ cis cis8 cis16~ cis8. cis16 |
   cis16 cis8 cis16~ cis cis8. cis4 r |
