@@ -2,7 +2,7 @@
 #(set-global-staff-size 17)
 
 \header {
-  title = "That’s Christmas To Me"
+  title = "That’s Christmas to Me"
   composer = "Pentatonix"
   arranger = "Cantus Novus"
   tagline = ##f
