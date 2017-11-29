@@ -2,7 +2,7 @@
 #(set-global-staff-size 17)
 
 \header {
-  title = "That's Christmas To Me"
+  title = "That’s Christmas To Me"
   composer = "Pentatonix"
   arranger = "Cantus Novus"
   tagline = ##f
@@ -48,21 +48,21 @@ KirstieMusic = \relative c' {
 
 KirstieWords = \lyricmode {
   fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents
-  un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta
+  un -- der -- neath the good ol’ Christ -- mas tree wait all night til San -- ta
   comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
   chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy
   share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple
-  things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
+  things wher -- ev -- er we may be Oh, __ why? __ that’s Christ -- mas to me.
   Christ -- mas song __ song in my heart Ah __ Oh __ Ah __ all the stock -- ings
   by the Christ -- mas tree __ Oh, why? Christ -- mas to me __ why? Christ -- mas
-  to me __ Ooo __ Ooo __ Oh, the on -- ly gift I'll ev -- er need is the joy of
+  to me __ Ooo __ Ooo __ Oh, the on -- ly gift I’ll ev -- er need is the joy of
   fa -- mi -- ly Oh, why? Ooo __ oh __ ah __ Christ -- mas song song in my heart
   Ah __ Oh __ all the stock -- ings by the Christ -- mas tree __ Oh, why?
   Christ -- mas to me. __ why? Christ -- mas to me. __ dm dm __ dm dm __ dm dm __
-  dm All the joy that makes us sing __ Oh, why? cause that's Christ -- mas to
-  me __ oh __ Christ -- mas song in my heart I've got the can -- dles glow -- ing
-  in the dark __ oh years to come we'll al -- ways know one thing __ that's the
-  love that Christ -- mas can bring __ why? Cause that's Christ -- mas to me.
+  dm All the joy that makes us sing __ Oh, why? cause that’s Christ -- mas to
+  me __ oh __ Christ -- mas song in my heart I’ve got the can -- dles glow -- ing
+  in the dark __ oh years to come we’ll al -- ways know one thing __ that’s the
+  love that Christ -- mas can bring __ why? Cause that’s Christ -- mas to me.
 }
 
 MitchMusic = \relative c' {
@@ -115,26 +115,26 @@ MitchMusic = \relative c' {
 
 MitchWords = \lyricmode {
   fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents
-  un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta
+  un -- der -- neath the good ol’ Christ -- mas tree wait all night til San -- ta
   comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
   chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy
   share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple
-  things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
-  I've got this Christ -- mas song __ in my heart __ I've got the can -- dles glow
-  -- ing in the dark__ I'm hang -- ing all the stock -- ings by the Christ -- mas
-  tree __ Oh, __ why? __ cause that's Christ -- mas to me __ Oh, __ why? cause
-  that's Christ -- mas to me. Ooo __ Ooo __ Oh, the on -- ly gift I'll ev -- er
-  need is the joy of fa -- mi -- ly Oh, why? cause that's Christ -- mas to me.
-  I've got this Christ -- mas song __ in my heart __ I've got the can -- dles
-  glow -- ing in the dark __ I'm hang -- ing all the stock -- ings by the
-  Christ -- mas tree __ Oh, why? cause that's Christ -- mas to me. __ Oh, why?
-  Cause that's Christ -- mas to me. Ooo __ Ooo __ Oh, all the joy that fills our
-  hearts and makes us sing __ Oh, why? cause that's Christ -- mas to me.
-  I've got this Christ -- mas song in my heart I've got the can -- dles
-  glow -- ing in the dark __ and then for years to come we'll al -- ways
-  know one thing __ that's the love __ that __ Christ -- mas can bring __
+  things wher -- ev -- er we may be Oh, __ why? __ that’s Christ -- mas to me.
+  I’ve got this Christ -- mas song __ in my heart __ I’ve got the can -- dles glow
+  -- ing in the dark__ I’m hang -- ing all the stock -- ings by the Christ -- mas
+  tree __ Oh, __ why? __ cause that’s Christ -- mas to me __ Oh, __ why? cause
+  that’s Christ -- mas to me. Ooo __ Ooo __ Oh, the on -- ly gift I’ll ev -- er
+  need is the joy of fa -- mi -- ly Oh, why? cause that’s Christ -- mas to me.
+  I’ve got this Christ -- mas song __ in my heart __ I’ve got the can -- dles
+  glow -- ing in the dark __ I’m hang -- ing all the stock -- ings by the
+  Christ -- mas tree __ Oh, why? cause that’s Christ -- mas to me. __ Oh, why?
+  Cause that’s Christ -- mas to me. Ooo __ Ooo __ Oh, all the joy that fills our
+  hearts and makes us sing __ Oh, why? cause that’s Christ -- mas to me.
+  I’ve got this Christ -- mas song in my heart I’ve got the can -- dles
+  glow -- ing in the dark __ and then for years to come we’ll al -- ways
+  know one thing __ that’s the love __ that __ Christ -- mas can bring __
   Oh, why?
-  Cause that's Christ -- mas to me.
+  Cause that’s Christ -- mas to me.
 }
 
 KevinMusic = \relative c {
@@ -178,22 +178,22 @@ KevinMusic = \relative c {
 
 KevinWords = \lyricmode {
   fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents
-  un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta
+  un -- der -- neath the good ol’ Christ -- mas tree wait all night til San -- ta
   comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
   chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy
   share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple
-  things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
-  I've got this Christ -- mas song __ song in my heart Ah __ Oh __ Ah __ all
+  things wher -- ev -- er we may be Oh, __ why? __ that’s Christ -- mas to me.
+  I’ve got this Christ -- mas song __ song in my heart Ah __ Oh __ Ah __ all
   the stock -- ings by the Christ -- mas tree __ Oh, why? Christ -- mas to me __
-  why? Christ -- mas to me __ Ooo __ Ooo __ Oh, the on -- ly gift I'll ev -- er
+  why? Christ -- mas to me __ Ooo __ Ooo __ Oh, the on -- ly gift I’ll ev -- er
   need is the joy of fa -- mi -- ly Oh, why? Ooo __ oh __ ah __ Christ -- mas song
   song in my heart, Ah __ Oh __ all the stock -- ings by the Christ -- mas tree __
   Oh, why? Christ -- mas to me. __ why? Christ -- mas to me. __ dm __ dm __
   dm __ dm __ dm __ dm __ dm All the joy that makes us sing __ Oh, why? cause
-  that's Christ -- mas to me __ oh Christ -- mas song in my heart I've got the
-  can -- dles glow -- ing in the dark oh years to come we'll al -- ways know one
-  thing __ that's the love that Christ -- mas can bring __ why?
-  Cause that's Christ -- mas to me.
+  that’s Christ -- mas to me __ oh Christ -- mas song in my heart I’ve got the
+  can -- dles glow -- ing in the dark oh years to come we’ll al -- ways know one
+  thing __ that’s the love that Christ -- mas can bring __ why?
+  Cause that’s Christ -- mas to me.
 }
 
 ScottMusic = \relative c {
@@ -237,23 +237,23 @@ ScottMusic = \relative c {
 
 ScottWords = \lyricmode {
   The fi -- re -- place is burn -- ing bright, shin -- ing all on me. I see the
-  pre -- sents un -- der -- neath the good ol' Christ -- mas tree and I wait all
-  night 'til San -- ta comes to wake me from my dreams Oh __ why? __ cause that's
+  pre -- sents un -- der -- neath the good ol’ Christ -- mas tree and I wait all
+  night ’til San -- ta comes to wake me from my dreams Oh __ why? __ cause that’s
   Christ -- mas to me __ I see the chil -- dren play out -- side __ like an --
   gels in the snow while mom and dad -- dy share a kiss __ un -- der the mis --
-  tle -- toe __ and we'll cher -- ish all these sim -- ple things wher -- ev -- er
-  we may be Oh, __ why? __ cause that's Christ -- mas to me. __ Christ -- mas
+  tle -- toe __ and we’ll cher -- ish all these sim -- ple things wher -- ev -- er
+  we may be Oh, __ why? __ cause that’s Christ -- mas to me. __ Christ -- mas
   song __ song in my heart Ah __ Oh __ Ah __ all the stock -- ings by the Christ
   -- mas tree __ Oh, why? Christ -- mas to me __ why? Christ -- mas to me __ Ooo
-  __ Ooo __ Oh, the on -- ly gift I'll ev -- er need is the joy of fa -- mi -- ly
+  __ Ooo __ Oh, the on -- ly gift I’ll ev -- er need is the joy of fa -- mi -- ly
   Oh, why? Ooo __ oh __ ah __ Christ -- mas song -- song in my heart
   Ah, __ Oh __ all the stock -- ings by the Christ -- mas tree __ Oh, why?
   Christ -- mas to me. __ why? Christ -- mas to me. dm __ dm dm __ dm dm __ dm dm
-  All the joy that makes us sing __ Oh, why? cause that's Christ -- mas to me __
-  oh Christ -- mas song __ in my heart I've got the can -- dles glow -- ing in
-  the dark __ and then for years to come we'll al -- ways know one thing __ that's
+  All the joy that makes us sing __ Oh, why? cause that’s Christ -- mas to me __
+  oh Christ -- mas song __ in my heart I’ve got the can -- dles glow -- ing in
+  the dark __ and then for years to come we’ll al -- ways know one thing __ that’s
   the love that Christ -- mas can bring __ why?
-  Cause that's Christ -- mas to me.
+  Cause that’s Christ -- mas to me.
 }
 
 AviMusic = \relative c {
@@ -297,24 +297,24 @@ AviMusic = \relative c {
 
 AviWords = \lyricmode {
   fi -- re place is burn -- ing bright, shin -- ing all on me. see the pres -- ents
-  un -- der -- neath the good ol' Christ -- mas tree wait all night til San -- ta
+  un -- der -- neath the good ol’ Christ -- mas tree wait all night til San -- ta
   comes to wake me from my dreams Oh, __ why? __ Christ -- mas to me. see the
   chil -- dren play out -- side like an -- gels in the snow mom and dad -- dy
   share a kiss un -- der the mis -- tle -- toe cher -- ish all these sim -- ple
-  things wher -- ev -- er we may be Oh, __ why? __ that's Christ -- mas to me.
+  things wher -- ev -- er we may be Oh, __ why? __ that’s Christ -- mas to me.
   Christ -- mas song __ song in my heart __ can -- dles glow __ Oh __ Ah __ all
   the stock -- ings by the Christ -- mas tree __ Oh, why? Christ -- mas to me __
   why? Christ -- mas to me. __ I lis -- ten for the thud of rein -- deer wal --
-  king on the roof as I fall a -- sleep to lul -- la -- bies the mor -- ning's com
-  -- ing soon __ on -- ly gift I'll ev -- er need is the joy of fa -- mi -- ly Oh,
+  king on the roof as I fall a -- sleep to lul -- la -- bies the mor -- ning’s com
+  -- ing soon __ on -- ly gift I’ll ev -- er need is the joy of fa -- mi -- ly Oh,
   why? Ooo __ Ah __ Christ -- mas song __ song in my heart, Ah can -- dles glow __
   Oh __ all the stock -- ings by the Christ -- mas tree __ Oh, why? Christ -- mas
   to me. __ why? Christ -- mas to me. __ dm __ dm dm __ dm dm __ dm dm __ All the
-  joy __ makes us __ sing __ Oh, why? cause that's Christ -- mas to me __ oh __
-  Christ -- mas song in my heart I've got the can -- dles glow -- ing in the dark
-  oh years to come we'll al -- ways know one thing __ that's the love that
+  joy __ makes us __ sing __ Oh, why? cause that’s Christ -- mas to me __ oh __
+  Christ -- mas song in my heart I’ve got the can -- dles glow -- ing in the dark
+  oh years to come we’ll al -- ways know one thing __ that’s the love that
   Christ -- mas can bring __ why?
-  Cause that's Christ -- mas to me.
+  Cause that’s Christ -- mas to me.
 }
 
 \score {
