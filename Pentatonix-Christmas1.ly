@@ -317,24 +317,21 @@ AviWords = \lyricmode {
   Cause that's Christ -- mas to me.
 }
 
-\new ChoirStaff <<
-  \new Staff \with { instrumentName = #"Kirstie" }
-  { \global \KirstieMusic }
-  \addlyrics \KirstieWords
+\score {
+  \new ChoirStaff <<
+    \new Staff \with { instrumentName = #"Kirstie" } { \global \KirstieMusic }
+    \addlyrics \KirstieWords
 
-  \new Staff \with { instrumentName = #"Mitch" } {
-   \global \MitchMusic }
-   \addlyrics \MitchWords
+    \new Staff \with { instrumentName = #"Mitch" } { \global \MitchMusic }
+    \addlyrics \MitchWords
 
-  \new Staff \with { instrumentName = #"Scott" } {
-         \global \ScottMusic }
-         \addlyrics \ScottWords
+    \new Staff \with { instrumentName = #"Scott" } { \global \ScottMusic }
+    \addlyrics \ScottWords
 
-  \new Staff \with { instrumentName = #"Kevin" } {
-   \global \KevinMusic }
-   \addlyrics \KevinWords
+    \new Staff \with { instrumentName = #"Kevin" } { \global \KevinMusic }
+    \addlyrics \KevinWords
 
-  \new Staff \with { instrumentName = #"Avi" } {
-   \global \AviMusic }
-   \addlyrics \AviWords
->>
+    \new Staff \with { instrumentName = #"Avi" } { \global \AviMusic }
+    \addlyrics \AviWords
+  >>
+}
