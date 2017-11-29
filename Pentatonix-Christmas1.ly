@@ -1,4 +1,5 @@
 \version  "2.19.59"
+#(set-global-staff-size 17)
 
 \header {
   title = "That's Christmas To Me"
